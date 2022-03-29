@@ -40,7 +40,7 @@ Now it's time to put it all together and test the Fintech Finder application wit
 
  I then navigated to the Transactions section of Ganache.
 
-* Screenshot of your address balance and history on Ganache. 
+* Screenshot of my address balance and history on Ganache. 
 
 ![Step4a](https://github.com/apfreeman/Unit-19-Cryptocurrency-Wallet/blob/main/Images/address_balance.PNG?raw=true)
 
