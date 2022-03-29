@@ -46,7 +46,7 @@ Now it's time to put it all together and test the Fintech Finder application wit
 
 * Screenshot of the transaction details on Ganache. 
 
-![Step4b](https://github.com/apfreeman/Unit-19-Cryptocurrency-Wallet/blob/main/Images/transaction_small.PNG?raw=true)
+![Step4b](https://github.com/apfreeman/Unit-19-Cryptocurrency-Wallet/blob/main/Images/transaction.PNG?raw=true)
 
 5. Return to the original transaction, and click the transaction’s To address.
 
