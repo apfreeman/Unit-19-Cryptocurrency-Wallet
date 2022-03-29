@@ -42,7 +42,7 @@ Now it's time to put it all together and test the Fintech Finder application wit
 
 * Screenshot of my address balance and history on Ganache. 
 
-![Step4a](https://github.com/apfreeman/Unit-19-Cryptocurrency-Wallet/blob/main/Images/address_balance.PNG?raw=true)
+![Step4a](https://github.com/apfreeman/Unit-19-Cryptocurrency-Wallet/blob/main/Images/address_balance_sender.PNG?raw=true)
 
 * Screenshot of the transaction details on Ganache. 
 
@@ -52,4 +52,4 @@ Now it's time to put it all together and test the Fintech Finder application wit
 
 * Screenshot of the recipient’s address balance and history from your Ganache application. 
 
-![Step5](https://github.com/apfreeman/Unit-19-Cryptocurrency-Wallet/blob/main/Images/transaction.PNG?raw=true)
+![Step5](https://github.com/apfreeman/Unit-19-Cryptocurrency-Wallet/blob/main/Images/address_balance_recipeint.PNG?raw=true)
