@@ -50,6 +50,6 @@ Now it's time to put it all together and test the Fintech Finder application wit
 
 5. Return to the original transaction, and click the transaction’s To address.
 
-* Screenshot of the recipient’s address balance and history from your Ganache application. 
+* Screenshot of the recipient’s address balance and history from your Ganache application (**NOTE I have used the last account in the wallet to "act" as the recipient so that the recipients address balance and history can be shown**
 
 ![Step5](https://github.com/apfreeman/Unit-19-Cryptocurrency-Wallet/blob/main/Images/address_balance_recipeint.PNG?raw=true)
